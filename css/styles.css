@@ -1,0 +1,44 @@
+.columns {
+  width: 30%;
+  float: left;
+  text-align: center;
+}
+
+.img {
+  width: 200px;
+  align-items: center;
+}
+
+.h1{
+  text-align: center;
+  color: lightblue;
+}
+
+.profile {
+  width: 30%;
+  float: left;
+  text-align: justify;
+  font-size: 24px;
+}
+
+.h2 a {
+  color: purple;
+  text-align: center;
+
+}
+
+.black-background{
+  background-color: #000000;
+}
+
+.white-text{
+  color: #ffffff;
+}
+
+.pink-background{
+  background-color: pink;
+}
+
+.purple-text{
+  color: purple;
+}
